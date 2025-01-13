@@ -1,6 +1,6 @@
 ⭐[Leetcode](https://leetcode.com/u/triprovip303/)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/triprovip303?theme=dark&font=source_code_pro)
+![LeetCode Stats](https://leetcard.jacoblin.cool/triprovip303?theme=dark&font=Noto%20Sans%20Osmanya&ext=heatmap)
 
 <!--
 **quangtri303/quangtri303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
